@@ -1,0 +1,31 @@
+{
+    "workbench.colorCustomizations": {
+        "statusBarItem.warningBackground": "#5edb0a",
+        "statusBarItem.warningForeground": "#000000",
+        "statusBarItem.warningHoverBackground": "#5edb0a",
+        "statusBarItem.warningHoverForeground": "#00000090",
+        "statusBarItem.remoteBackground": "#6be817",
+        "statusBarItem.remoteForeground": "#000000",
+        "statusBarItem.remoteHoverBackground": "#78f524",
+        "statusBarItem.remoteHoverForeground": "#00000090",
+        "statusBar.background": "#5edb0a",
+        "statusBar.foreground": "#000000",
+        "statusBar.border": "#5edb0a",
+        "statusBar.debuggingBackground": "#5edb0a",
+        "statusBar.debuggingForeground": "#000000",
+        "statusBar.debuggingBorder": "#5edb0a",
+        "statusBar.noFolderBackground": "#5edb0a",
+        "statusBar.noFolderForeground": "#000000",
+        "statusBar.noFolderBorder": "#5edb0a",
+        "statusBar.prominentBackground": "#5edb0a",
+        "statusBar.prominentForeground": "#000000",
+        "statusBar.prominentHoverBackground": "#5edb0a",
+        "statusBar.prominentHoverForeground": "#00000090",
+        "titleBar.activeBackground": "#5edb0a",
+        "titleBar.activeForeground": "#000000",
+        "titleBar.inactiveBackground": "#5edb0a",
+        "titleBar.inactiveForeground": "#00000090"
+    },
+    "window.title": "frontend",
+    "editor.formatOnSave": true
+}
